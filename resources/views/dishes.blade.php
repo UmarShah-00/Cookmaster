@@ -49,7 +49,7 @@
 <!-- Hero End -->
 
 <!-- Menu Start -->
- <div class="container-fluid menu bg-light py-6 my-6">
+<div class="container-fluid menu bg-light py-6 my-6">
     <div class="container">
         <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
             <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our Menu</small>
@@ -594,9 +594,9 @@
 <div class="container-fluid service py-6">
     <div class="container">
         <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
-    <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Signature Dishes</small>
-    <h1 class="display-5 mb-5">Explore the Flavors We’re Proud to Serve</h1>
-</div>
+            <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Signature Dishes</small>
+            <h1 class="display-5 mb-5">Explore the Flavors We’re Proud to Serve</h1>
+        </div>
 
         <div class="row g-4">
             <div class="col-lg-3 col-md-6 col-sm-12 wow bounceInUp" data-wow-delay="0.1s">
@@ -639,7 +639,7 @@
                 <div class="bg-light rounded service-item">
                     <div class="service-content d-flex align-items-center justify-content-center p-4">
                         <div class="service-content-icon text-center">
-                             <img class="flex-shrink-0 img-fluid rounded w-100 h-100 mb-3" src="img/menu-04.jpg" alt="">
+                            <img class="flex-shrink-0 img-fluid rounded w-100 h-100 mb-3" src="img/menu-04.jpg" alt="">
                             <h4 class="mb-3">Pizza</h4>
                             <p class="mb-4">Consectetur adipiscing elit sed dwso eiusmod tempor incididunt ut labore.</p>
                             <a href="#" class="btn btn-primary px-4 py-2 rounded-pill">Read More</a>
@@ -651,7 +651,7 @@
                 <div class="bg-light rounded service-item">
                     <div class="service-content d-flex align-items-center justify-content-center p-4">
                         <div class="service-content-icon text-center">
-                             <img class="flex-shrink-0 img-fluid rounded w-100 h-100 mb-3" src="img/menu-05.jpg" alt="">
+                            <img class="flex-shrink-0 img-fluid rounded w-100 h-100 mb-3" src="img/menu-05.jpg" alt="">
                             <h4 class="mb-3">Bacon</h4>
                             <p class="mb-4">Consectetur adipiscing elit sed dwso eiusmod tempor incididunt ut labore.</p>
                             <a href="#" class="btn btn-primary px-4 py-2 rounded-pill">Read More</a>
@@ -663,7 +663,7 @@
                 <div class="bg-light rounded service-item">
                     <div class="service-content d-flex align-items-center justify-content-center p-4">
                         <div class="service-content-icon text-center">
-                             <img class="flex-shrink-0 img-fluid rounded w-100 h-100 mb-3" src="img/menu-06.jpg" alt="">
+                            <img class="flex-shrink-0 img-fluid rounded w-100 h-100 mb-3" src="img/menu-06.jpg" alt="">
                             <h4 class="mb-3">Chicken</h4>
                             <p class="mb-4">Consectetur adipiscing elit sed dwso eiusmod tempor incididunt ut labore.</p>
                             <a href="#" class="btn btn-primary px-4 py-2 rounded-pill">Read More</a>
@@ -687,7 +687,7 @@
                 <div class="bg-light rounded service-item">
                     <div class="service-content d-flex align-items-center justify-content-center p-4">
                         <div class="service-content-icon text-center">
-                             <img class="flex-shrink-0 img-fluid rounded w-100 h-100 mb-3" src="img/menu-08.jpg" alt="">
+                            <img class="flex-shrink-0 img-fluid rounded w-100 h-100 mb-3" src="img/menu-08.jpg" alt="">
                             <h4 class="mb-3">Sweet</h4>
                             <p class="mb-4">Consectetur adipiscing elit sed dwso eiusmod tempor incididunt ut labore.</p>
                             <a href="#" class="btn btn-primary px-4 py-2 rounded-pill">Read More</a>
@@ -706,7 +706,7 @@
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="footer-item">
-                    <h1 class="text-primary">Cater<span  class="text-dark">Serv</span></h1>
+                    <h1 class="text-primary">Cater<span class="text-dark">Serv</span></h1>
                     <p class="lh-lg mb-4">There cursus massa at urnaaculis estieSed aliquamellus vitae ultrs condmentum leo massamollis its estiegittis miristum.</p>
                     <div class="footer-icon d-flex">
                         <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-facebook-f"></i></a>

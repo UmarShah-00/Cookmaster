@@ -13,20 +13,20 @@
                     <a href="/" class="nav-item nav-link active">Home</a>
                     <a href="about" class="nav-item nav-link">About</a>
                     <a href="dishes" class="nav-item nav-link">Dishes/Recipes</a>
-                    <a href="event.html" class="nav-item nav-link">Skill/Expertise</a>
-                    <a href="menu.html" class="nav-item nav-link">Gallery</a>
-                    <a href="menu.html" class="nav-item nav-link">Testimonials</a>
-                    <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                    <a href="//" class="nav-item nav-link">Skill/Expertise</a>
+                    <a href="//" class="nav-item nav-link">Gallery</a>
+                    <a href="//" class="nav-item nav-link">Testimonials</a>
+                    <a href="//" class="nav-item nav-link">Contact Us</a>
                 </div>
                 <button class="btn-search btn btn-primary btn-md-square me-4 rounded-circle d-none d-lg-inline-flex" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button>
                 <a href="" class="btn-search btn btn-primary btn-md-square me-4 rounded-circle d-none d-lg-inline-flex"><i class="fa-brands fa-instagram"></i></a>
-                 <a href="" class="btn-search btn btn-primary btn-md-square me-4 rounded-circle d-none d-lg-inline-flex"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="" class="btn-search btn btn-primary btn-md-square me-4 rounded-circle d-none d-lg-inline-flex"><i class="fa-brands fa-facebook-f"></i></a>
             </div>
         </nav>
     </div>
 </div>
 <!-- Navbar End -->
- <script>
+<script>
     // Get current path
     const currentLocation = window.location.pathname;
     const navLinks = document.querySelectorAll('.navbar-nav .nav-link');

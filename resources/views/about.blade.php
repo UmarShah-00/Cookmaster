@@ -11,88 +11,88 @@
 
 <!-- Navbar start -->
 @include('layouts.header')
-        
-        <!-- Navbar End -->
+
+<!-- Navbar End -->
 
 
-        <!-- Modal Search Start -->
-        <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-fullscreen">
-                <div class="modal-content rounded-0">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Search by keyword</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body d-flex align-items-center">
-                        <div class="input-group w-75 mx-auto d-flex">
-                            <input type="search" class="form-control bg-transparent p-3" placeholder="keywords" aria-describedby="search-icon-1">
-                            <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
-                        </div>
-                    </div>
+<!-- Modal Search Start -->
+<div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content rounded-0">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Search by keyword</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body d-flex align-items-center">
+                <div class="input-group w-75 mx-auto d-flex">
+                    <input type="search" class="form-control bg-transparent p-3" placeholder="keywords" aria-describedby="search-icon-1">
+                    <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
                 </div>
             </div>
-        </div>
-        <!-- Modal Search End -->
-
-
-        <!-- Hero Start -->
-        <div class="container-fluid bg-light py-6 my-6 mt-0">
-            <div class="container text-center animated bounceInDown">
-                <h1 class="display-1 mb-4">About Us</h1>
-                <ol class="breadcrumb justify-content-center mb-0 animated bounceInDown">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-dark" aria-current="page">About</li>
-                </ol>
-            </div>
-        </div>
-        <!-- Hero End -->
-
-
-        <!-- About Satrt -->
-        <div class="container-fluid py-6">
-            <div class="container">
-                <div class="row g-5 align-items-center">
-                    <div class="col-lg-5 wow bounceInUp" data-wow-delay="0.1s">
-                        <img src="https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646220.jpg" class="img-fluid rounded" alt="">
-                    </div>
-<div class="col-lg-7 wow bounceInUp" data-wow-delay="0.3s">
-    <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">About Me</small>
-    <h1 class="display-5 mb-4">Bringing Stories & Flavor to Every Plate</h1>
-   <p class="mb-4">
-    Hello and welcome to my kitchen! I'm a passionate chef with over 15 years of heartfelt experience in the culinary world. My journey began with humble roots—cooking beside my grandmother, where the scent of simmering spices and the warmth of family meals ignited a lifelong passion for food. Those early days taught me that cooking isn't just a skill, it's a beautiful act of love and connection.
-    <br><br>
-    Throughout the years, I’ve worn many hats: a private chef for families who wanted wholesome meals, a food educator teaching both kids and adults the magic of the kitchen, and a content creator sharing recipes, kitchen hacks, and stories from my life. Every dish I create carries a memory—whether it’s a celebration, a moment of comfort, or simply a craving turned into something magical.
-    <br><br>
-    Today, I bring that same passion to everything I do—whether it's recording cooking tutorials from my cozy home kitchen, developing recipes for my upcoming cookbooks, or connecting with a growing community online. For me, food is a language of emotion, culture, and creativity. 
-    <br><br>
-    My mission is simple: to inspire you to step into your kitchen with confidence, curiosity, and joy. No matter where you are in your cooking journey, I’m here to guide you, cheer you on, and remind you that some of the most meaningful stories are told—not with words, but with flavor.
-</p>
-
-    <div class="row g-4 text-dark mb-5">
-        <div class="col-sm-6">
-            <i class="fas fa-share text-primary me-2"></i>Hands-on Culinary Experience
-        </div>
-        <div class="col-sm-6">
-            <i class="fas fa-share text-primary me-2"></i>Cooking Classes & Food Education
-        </div>
-        <div class="col-sm-6">
-            <i class="fas fa-share text-primary me-2"></i>Real Recipes with Real Stories
-        </div>
-        <div class="col-sm-6">
-            <i class="fas fa-share text-primary me-2"></i>Inspiring Food Content Online
         </div>
     </div>
-  
 </div>
+<!-- Modal Search End -->
 
-                </div>
+
+<!-- Hero Start -->
+<div class="container-fluid bg-light py-6 my-6 mt-0">
+    <div class="container text-center animated bounceInDown">
+        <h1 class="display-1 mb-4">About Us</h1>
+        <ol class="breadcrumb justify-content-center mb-0 animated bounceInDown">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item"><a href="#">Pages</a></li>
+            <li class="breadcrumb-item text-dark" aria-current="page">About</li>
+        </ol>
+    </div>
+</div>
+<!-- Hero End -->
+
+
+<!-- About Satrt -->
+<div class="container-fluid py-6">
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-5 wow bounceInUp" data-wow-delay="0.1s">
+                <img src="https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646220.jpg" class="img-fluid rounded" alt="">
             </div>
-        </div>
-        <!-- About End -->
+            <div class="col-lg-7 wow bounceInUp" data-wow-delay="0.3s">
+                <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">About Me</small>
+                <h1 class="display-5 mb-4">Bringing Stories & Flavor to Every Plate</h1>
+                <p class="mb-4">
+                    Hello and welcome to my kitchen! I'm a passionate chef with over 15 years of heartfelt experience in the culinary world. My journey began with humble roots—cooking beside my grandmother, where the scent of simmering spices and the warmth of family meals ignited a lifelong passion for food. Those early days taught me that cooking isn't just a skill, it's a beautiful act of love and connection.
+                    <br><br>
+                    Throughout the years, I’ve worn many hats: a private chef for families who wanted wholesome meals, a food educator teaching both kids and adults the magic of the kitchen, and a content creator sharing recipes, kitchen hacks, and stories from my life. Every dish I create carries a memory—whether it’s a celebration, a moment of comfort, or simply a craving turned into something magical.
+                    <br><br>
+                    Today, I bring that same passion to everything I do—whether it's recording cooking tutorials from my cozy home kitchen, developing recipes for my upcoming cookbooks, or connecting with a growing community online. For me, food is a language of emotion, culture, and creativity.
+                    <br><br>
+                    My mission is simple: to inspire you to step into your kitchen with confidence, curiosity, and joy. No matter where you are in your cooking journey, I’m here to guide you, cheer you on, and remind you that some of the most meaningful stories are told—not with words, but with flavor.
+                </p>
 
-        <!-- Team Start -->
-        <div class="container-fluid team py-6">
+                <div class="row g-4 text-dark mb-5">
+                    <div class="col-sm-6">
+                        <i class="fas fa-share text-primary me-2"></i>Hands-on Culinary Experience
+                    </div>
+                    <div class="col-sm-6">
+                        <i class="fas fa-share text-primary me-2"></i>Cooking Classes & Food Education
+                    </div>
+                    <div class="col-sm-6">
+                        <i class="fas fa-share text-primary me-2"></i>Real Recipes with Real Stories
+                    </div>
+                    <div class="col-sm-6">
+                        <i class="fas fa-share text-primary me-2"></i>Inspiring Food Content Online
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- About End -->
+
+<!-- Team Start -->
+<div class="container-fluid team py-6">
     <div class="container">
         <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
             <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our Team</small>
@@ -163,112 +163,113 @@
     </div>
 </div>
 
-        <!-- Team End -->
+<!-- Team End -->
 
 
-        <!-- Footer Start -->
-        <div class="container-fluid footer py-6 my-6 mb-0 bg-light wow bounceInUp" data-wow-delay="0.1s">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-item">
-                            <h1 class="text-primary">Cater<span class="text-dark">Serv</span></h1>
-                            <p class="lh-lg mb-4">There cursus massa at urnaaculis estieSed aliquamellus vitae ultrs condmentum leo massamollis its estiegittis miristum.</p>
-                            <div class="footer-icon d-flex">
-                                <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-twitter"></i></a>
-                                <a href="#" class="btn btn-primary btn-sm-square me-2 rounded-circle"><i class="fab fa-instagram"></i></a>
-                                <a href="#" class="btn btn-primary btn-sm-square rounded-circle"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
+<!-- Footer Start -->
+<div class="container-fluid footer py-6 my-6 mb-0 bg-light wow bounceInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="footer-item">
+                    <h1 class="text-primary">Cater<span class="text-dark">Serv</span></h1>
+                    <p class="lh-lg mb-4">There cursus massa at urnaaculis estieSed aliquamellus vitae ultrs condmentum leo massamollis its estiegittis miristum.</p>
+                    <div class="footer-icon d-flex">
+                        <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-primary btn-sm-square me-2 rounded-circle" href=""><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="btn btn-primary btn-sm-square me-2 rounded-circle"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="btn btn-primary btn-sm-square rounded-circle"><i class="fab fa-linkedin-in"></i></a>
                     </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-item">
-                            <h4 class="mb-4">Special Facilities</h4>
-                            <div class="d-flex flex-column align-items-start">
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Cheese Burger</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Sandwich</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Panner Burger</a>
-                                <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Special Sweets</a>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="footer-item">
+                    <h4 class="mb-4">Special Facilities</h4>
+                    <div class="d-flex flex-column align-items-start">
+                        <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Cheese Burger</a>
+                        <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Sandwich</a>
+                        <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Panner Burger</a>
+                        <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Special Sweets</a>
                     </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-item">
-                            <h4 class="mb-4">Contact Us</h4>
-                            <div class="d-flex flex-column align-items-start">
-                                <p><i class="fa fa-map-marker-alt text-primary me-2"></i> 123 Street, New York, USA</p>
-                                <p><i class="fa fa-phone-alt text-primary me-2"></i> (+012) 3456 7890 123</p>
-                                <p><i class="fas fa-envelope text-primary me-2"></i> info@example.com</p>
-                                <p><i class="fa fa-clock text-primary me-2"></i> 26/7 Hours Service</p>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="footer-item">
+                    <h4 class="mb-4">Contact Us</h4>
+                    <div class="d-flex flex-column align-items-start">
+                        <p><i class="fa fa-map-marker-alt text-primary me-2"></i> 123 Street, New York, USA</p>
+                        <p><i class="fa fa-phone-alt text-primary me-2"></i> (+012) 3456 7890 123</p>
+                        <p><i class="fas fa-envelope text-primary me-2"></i> info@example.com</p>
+                        <p><i class="fa fa-clock text-primary me-2"></i> 26/7 Hours Service</p>
                     </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-item">
-                            <h4 class="mb-4">Social Gallery</h4>
-                            <div class="row g-2">
-                                <div class="col-4">
-                                     <img src="img/menu-01.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-02.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-03.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-04.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-05.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                                <div class="col-4">
-                                     <img src="img/menu-06.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
-                                </div>
-                            </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="footer-item">
+                    <h4 class="mb-4">Social Gallery</h4>
+                    <div class="row g-2">
+                        <div class="col-4">
+                            <img src="img/menu-01.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/menu-02.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/menu-03.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/menu-04.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/menu-05.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/menu-06.jpg" class="img-fluid rounded-circle border border-primary p-2" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Footer End -->
+    </div>
+</div>
+<!-- Footer End -->
 
-        <!-- Copyright Start -->
-        <div class="container-fluid copyright bg-dark py-4">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Your Site Name</a>, All right reserved.</span>
-                    </div>
-                    <div class="col-md-6 my-auto text-center text-md-end text-white">
-                        <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
-                        <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
-                        <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                        Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
-                    </div>
-                </div>
+<!-- Copyright Start -->
+<div class="container-fluid copyright bg-dark py-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Your Site Name</a>, All right reserved.</span>
+            </div>
+            <div class="col-md-6 my-auto text-center text-md-end text-white">
+                <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
+                <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
+                <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
+                Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
             </div>
         </div>
-        <!-- Copyright End -->
-        
-        
-        <!-- Back to Top -->
-        <a href="#" class="btn btn-md-square btn-primary rounded-circle back-to-top"><i class="fa fa-arrow-up"></i></a>   
-        
-        @endsection
-        
-        <!-- JavaScript Libraries -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/wow/wow.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/counterup/counterup.min.js"></script>
-        <script src="lib/lightbox/js/lightbox.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    </div>
+</div>
+<!-- Copyright End -->
 
-        <!-- Template Javascript -->
-        <script src="js/main.js"></script>
-    </body>
+
+<!-- Back to Top -->
+<a href="#" class="btn btn-md-square btn-primary rounded-circle back-to-top"><i class="fa fa-arrow-up"></i></a>
+
+@endsection
+
+<!-- JavaScript Libraries -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="lib/wow/wow.min.js"></script>
+<script src="lib/easing/easing.min.js"></script>
+<script src="lib/waypoints/waypoints.min.js"></script>
+<script src="lib/counterup/counterup.min.js"></script>
+<script src="lib/lightbox/js/lightbox.min.js"></script>
+<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+<!-- Template Javascript -->
+<script src="js/main.js"></script>
+</body>
+
 </html>
